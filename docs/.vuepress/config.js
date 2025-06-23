@@ -17,8 +17,9 @@ export default defineUserConfig({
                     { text: 'API', link: '/tech/api/' },
                 ],
             },
-            { text: '关于我们', link: '/about/' }
-            { text: 'GitHub', link: 'https://github.com/WindLikeo/iArchive' },        
+            { text: '关于我们', link: '/about/' },
+            { text: 'GitHub', link: 'https://github.com/WindLikeo/iArchive' }
+        ],
     }),
     lang: 'zh-CN',
     title: 'iArchive',
